@@ -1,0 +1,2 @@
+/corpus/corpus.txt filter=lfs diff=lfs merge=lfs -text
+/corpus/corpusAsli.txt filter=lfs diff=lfs merge=lfs -text
